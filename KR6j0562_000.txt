@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 七佛八菩薩所說大陀羅尼神經
+#+DATE: 2015-08-30 20:34:51.113400
+#+PROPERTY: JUAN 0
